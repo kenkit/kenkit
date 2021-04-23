@@ -5,8 +5,8 @@
 [![Gravatar](https://www.gravatar.com/avatar/4cf219ac1c45d5b609ae3c4c6d2ff95c?s=200)](https://en.gravatar.com/kennedycheskaki1)
 
 Here are some ideas to get you started:
-- 🌱 I’m an experienced developer in ... `C/C++, Python,Lua, ML(Pytorch)`
-- 👯 I’m actively working on many projects ... `(Neon) Might Higher someday`
+- 🌱 I’m an experienced developer in ... `C/C++, Python,Lua, ML(Pytorch),Amazon AWS API..`
+- 👯 I’m actively working on many projects ... `(Neon) Might Hire you someday`
 - 📫 How to reach me: ... `Discord: 🆂🅰🅶🅴#6154` webmaster@deaddevice.com
 - 😄 Pronouns: `He/Him`
 
