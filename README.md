@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 
 ![0xRar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkit&show_icons=true&theme=synthwave)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kenkit&langs_count=5&theme=synthwave)]()
+[![kenkit's github activity graph](https://activity-graph.herokuapp.com/graph?username=kenkit)](https://github.com/kenkit)
 
 ### Codewars Stats
 [![KENKIT](https://www.codewars.com/users/kenkit/badges/large)](https://www.codewars.com/users/kenkit)
